@@ -1,0 +1,9 @@
+[submodule "mysensors_arduino.pretty"]
+	path = mysensors_arduino.pretty
+	url = https://github.com/mysensors-kicad/mysensors_arduino.pretty.git
+[submodule "mysensors_symbols"]
+	path = mysensors_symbols
+	url = https://github.com/mysensors-kicad/mysensors_symbols.git
+[submodule "kicad-feather-wing-template"]
+	path = kicad-feather-wing-template
+	url = https://github.com/Bucknalla/kicad-feather-wing-template.git

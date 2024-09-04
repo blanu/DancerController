@@ -1,0 +1,5 @@
+.DS_Store
+#auto_saved_files#
+DancerController-backups
+_autosave*
+*.lock
